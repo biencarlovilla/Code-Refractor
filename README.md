@@ -10,7 +10,7 @@ I added alt attributes to the following image sources:
 * social media marketing image
 * lead generation image
 * brand awareness image
-* 
+* cost management image
 
 ## Image Tag
 I deleted the image closing tag as it is not needed in line 68
