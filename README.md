@@ -19,4 +19,5 @@ I deleted the image closing tag as it is not needed in line 68
 I changed the division tag to a header tag in line 11
 
 ## Section
-I changed the division tag to section tan in line 30
+* I changed the division tag to section tag in line 30
+* I changed the division tag to section tag in line 56
