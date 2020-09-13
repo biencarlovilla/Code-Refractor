@@ -8,3 +8,4 @@ I added alt attributes to the following image sources:
 * search engine optimization image
 * online reputation management image
 * social media marketing image
+* lead generation image
