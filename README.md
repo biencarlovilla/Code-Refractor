@@ -22,3 +22,6 @@ I changed the division tag to a header tag in line 11
 * I changed the division tag to section tag in line 28
 * I changed the division tag to section tag in line 30
 * I changed the division tag to section tag in line 56
+
+## CSS Link
+I moved the css link under the title
